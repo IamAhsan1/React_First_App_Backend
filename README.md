@@ -12,9 +12,6 @@ A focused Node.js and Express backend designed to act as a secure proxy for fetc
 
 ```text
 backend/
-├── node_modules/       # Project dependencies (ignored in git)
-├── .env                # Environment variables (API keys - ignored in git)
-├── .gitignore          # Specifies intentionally untracked files
 ├── package-lock.json   # Exact dependency versions
 ├── package.json        # Project metadata and scripts
 └── server.js           # Main Express server application logic
